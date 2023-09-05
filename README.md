@@ -42,7 +42,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   woningnetregioamsterdam
   ![fron page 1]<img src="readme-images/1_9.png" alt="front page, 1 van 9">
   
-  <img src="readme-images/2_9.png" alt="front page, 2 van 9">
+  <img src="readme-images/2_9.png" width="375px" alt="front page, 2 van 9">
 
   <img src="readme-images/3_9.png" alt="front page, 3 van 9">
 
