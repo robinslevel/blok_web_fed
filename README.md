@@ -63,7 +63,25 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Dit is de nieuws pagina.
+  1 van de 9
+  <img src="readme-images/21_9.png" width="375px" alt="nieuwspagina, 9 van 9">
+  2 van de 9
+  <img src="readme-images/22_9.png" width="375px" alt="nieuwspagina, 9 van 9">
+  3 van de 9
+  <img src="readme-images/23_9.png" width="375px" alt="nieuwspagina, 9 van 9">
+  4 van de 9
+  <img src="readme-images/24_9.png" width="375px" alt="nieuwspagina, 9 van 9">
+  5 van de 9
+  <img src="readme-images/25_9.png" width="375px" alt="nieuwspagina, 9 van 9">
+  6 van de 9
+  <img src="readme-images/26_9.png" width="375px" alt="nieuwspagina, 9 van 9">
+  7 van de 9
+  <img src="readme-images/27_9.png" width="375px" alt="nieuwspagina, 9 van 9">
+  8 van de 9
+  <img src="readme-images/28_9.png" width="375px" alt="nieuwspagina, 9 van 9">
+  9 van de 9
+  <img src="readme-images/29_9.png" width="375px" alt="nieuwspagina, 9 van 9">
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
