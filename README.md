@@ -40,22 +40,24 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   woningnetregioamsterdam
-  ![fron page 1]<img src="readme-images/1_9.png" width="375px" alt="front page, 1 van 9">
-  
+  Hoofdpagina is opgedeeld in screenshots.
+  1 van de 9
+  <img src="readme-images/1_9.png" width="375px" alt="front page, 1 van 9">
+  2 van de 9
   <img src="readme-images/2_9.png" width="375px" alt="front page, 2 van 9">
-
+3 van de 9
   <img src="readme-images/3_9.png" width="375px" alt="front page, 3 van 9">
-
+4 van de 9
   <img src="readme-images/4_9.png" width="375px" alt="front page, 4 van 9">
-
+5 van de 9
   <img src="readme-images/5_9.png" width="375px" alt="front page, 5 van 9">
-
+6 van de 9
   <img src="readme-images/6_9.png" width="375px" alt="front page, 6 van 9">
-
+7 van de 9
   <img src="readme-images/7_9.png" width="375px" alt="front page, 7 van 9">
-
+8 van de 9
   <img src="readme-images/8_9.png" width="375px" alt="front page, 8 van 9">
-
+9 van de 9
   <img src="readme-images/9_9.png" width="375px" alt="front page, 9 van 9">
   
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
