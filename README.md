@@ -40,23 +40,23 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   woningnetregioamsterdam
-  ![fron page 1]<img src="readme-images/Screen Shot 2023-09-05 at 11.37.41" alt="front page, 1 van 9">
+  ![fron page 1]<img src="readme-images/1_9.png" alt="front page, 1 van 9">
   
-  <img src="readme-images/Screen Shot 2023-09-05 at 11.37.57" alt="front page, 2 van 9">
+  <img src="readme-images/2_9.png" alt="front page, 2 van 9">
 
-  <img src="readme-images/Screen Shot 2023-09-05 at 11.38.08" alt="front page, 3 van 9">
+  <img src="readme-images/3_9.png" alt="front page, 3 van 9">
 
-  <img src="readme-images/Screen Shot 2023-09-05 at 11.38.17" alt="front page, 4 van 9">
+  <img src="readme-images/4_9.png" alt="front page, 4 van 9">
 
-  <img src="readme-images/Screen Shot 2023-09-05 at 11.38.31" alt="front page, 5 van 9">
+  <img src="readme-images/5_9.png" alt="front page, 5 van 9">
 
-  <img src="readme-images/Screen Shot 2023-09-05 at 11.38.43" alt="front page, 6 van 9">
+  <img src="readme-images/6_9.png" alt="front page, 6 van 9">
 
-  <img src="readme-images/Screen Shot 2023-09-05 at 11.39.00" alt="front page, 7 van 9">
+  <img src="readme-images/7_9.png" alt="front page, 7 van 9">
 
-  <img src="readme-images/Screen Shot 2023-09-05 at 11.39.09" alt="front page, 8 van 9">
+  <img src="readme-images/8_9.png" alt="front page, 8 van 9">
 
-  <img src="readme-images/Screen Shot 2023-09-05 at 11.39.17" alt="front page, 9 van 9">
+  <img src="readme-images/9_9.png" alt="front page, 9 van 9">
   
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
