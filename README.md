@@ -116,14 +116,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### dynamisch deel (menu uitgeklapt): 
   <img src="readme-images/breakdownschets_fed_inloggen.jpg" width="375px" alt="breakdown van de inlogfunctie in de menu">
 
-  ### deel zoekfunctie:
+  ### deel zoekfunctie (menu uitgeklapt):
   <img src="readme-images/breakdownschets_fed_zoekfunctie.jpg" width="375px" alt="breakdown van de zoekfunctie in de menu">
 
-### deel menu uitgeklapt:
+### deel menu uitgeklapt (menu uitgeklapt):
   <img src="readme-images/breakdownschets_fed_menu.jpg" width="375px" alt="breakdown van de menu met links naar verschillende pagina's">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
   
    ### de hele 2de pagina: 
   <img src="readme-images/breakdownschets_fed_pagina_2" width="375px" alt="breakdown van de eerste gedeelte van de homepagina">
