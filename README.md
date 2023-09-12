@@ -94,7 +94,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  Mijn macbook van 2012 heeft een verouderde besturingssyteem (macintosh os high sierra) en de toegankelijks opties waren anders en duurde wat langer om te gebruiken. De website gaat heel goed aan het werk met de screenreader, maar als ik de website controleert zie ik dat alles in divs zijn gemaakt. Een grote vooruit zou zijn als alles niet meer in divs word gemaakt. De website heeft ook een ingebouwde voorlees optie waar je text kan selecteren die dan voor u word voorgelzen. Het enige prbleem hiermee is dat er veel controls zijn als je die gebruikt zelfs met een muis.
 
 </details>
 
@@ -105,14 +105,28 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
-  ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  ### de hele pagina deel 1: 
+  <img src="readme-images/breakdown_page_1.jpg" width="375px" alt="breakdown van de eerste gedeelte van de homepagina">
+  
+  ### deel 2:
 
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/breakdown_page_1_2.jpg" width="375px" alt="breakdown van de tweede gedeelte van de homepagina">
+
+
+  ### dynamisch deel (menu uitgeklapt): 
+  <img src="readme-images/breakdownschets_fed_inloggen.jpg" width="375px" alt="breakdown van de inlogfunctie in de menu">
+
+  ### deel zoekfunctie:
+  <img src="readme-images/breakdownschets_fed_zoekfunctie.jpg" width="375px" alt="breakdown van de zoekfunctie in de menu">
+
+### deel menu uitgeklapt:
+  <img src="readme-images/breakdownschets_fed_menu.jpg" width="375px" alt="breakdown van de menu met links naar verschillende pagina's">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  
+   ### de hele 2de pagina: 
+  <img src="readme-images/breakdownschets_fed_pagina_2" width="375px" alt="breakdown van de eerste gedeelte van de homepagina">
 
 </details>
 
