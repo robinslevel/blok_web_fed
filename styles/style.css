@@ -4,11 +4,77 @@
 *, *::after, *::before {
   box-sizing:border-box;  
 }
+header{
+	display:flex;
+	background-color: white;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+em:first-of-type {
+	font-weight: 700;
+	padding: 10px 0px 10px 10px;
+}
+p:nth-of-type(2){
+	color: gray;
+	font-size: medium;
+	padding: 0px 0px 0px 10px;
+	
+}
+span:first-of-type{
+	display: inline-flex;
+	min-width: 10em;
+	padding: 10px;
+}
+li:first-of-type{
+	margin: auto;
+}
+input[type="text" i] {
+    padding: 1px 10px;
+	align-self: center;
+}
+nav a{
+	display: block;
+	text-align: center;
+	padding: 10px;
+}
+ul:first-of-type{
+	display: flex;
+	justify-content: space-evenly;
+	min-width: 25em;
+	list-style-type: none;
+	border-bottom: 1rem solid;
+}
+ul:nth-child(li){
+	padding: 10px 10px;
+}
+li:nth-child(input){
+	vertical-align: middle;
+	margin-top: 10px;
+}
+header nav	li{
+	flex-grow: 1;
+	min-width: 6em;
+}
 
+header p{
+	margin-right: 3px;
+}
+section{
+	display: flex;
+}
+:root h1{
+	font-size: 5vh;
+}
 
-
-
-
+:first-of-type section{
+	flex-wrap: wrap;
+	background-color: bisque;
+}
+ul:nth-of-type(2){
+background-color: black;
+display: flex;
+flex-grow: 1;
+}
 
 /*********************/
 /* CUSTOM PROPERTIES */
@@ -17,9 +83,13 @@
 	/* startje */
 	--color-text:#111;
 	--color-background:#eee;
+	font-family: 'Poppins', sans-serif;
 }
-
-
+:root a{
+	font-style: none;
+	text-decoration: none;
+	color: #111;
+}
 
 
 
